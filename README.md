@@ -11,7 +11,7 @@ This notebook explores and analyzes the gun violence dataset, compiled by the Gu
 
 ### Dataset
 This dataset comprises all recorded gun violence incidents in the US between January 2013 and March 2018, inclusive.Specificially, it describes 260k gun violence incidents, with information such as the state where the incident took place and the number of injured/fatalities. 
-The dataset is avaliable on Kaggle(https://www.kaggle.com/jameslko/gun-violence-data).
+Due to the large filesize, the dataset has not been uploaded here. You can download it using this link : https://www.kaggle.com/jameslko/gun-violence-data
  
 
 ### Findings
